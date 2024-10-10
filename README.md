@@ -8,3 +8,7 @@ Problem Statement:
 Adidas aims to optimize its sales strategy by gaining deeper insights into its sales performance across different regions, product categories, and customer segments. Currently, there is limited visibility into the key drivers of sales trends, regional performance variations, and the effectiveness of different product lines. The challenge is to identify patterns and actionable insights from the sales data that will help improve decision-making, increase revenue, and enhance the efficiency of marketing and inventory management.
 
 This project seeks to solve this problem by leveraging a Power BI dashboard that provides a comprehensive analysis of Adidas' sales data. The dashboard will offer visual insights into overall sales performance, highlight top-selling products and regions, and uncover trends that can drive future sales strategies and improve competitive positioning.
+
+Dataset: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+
+
